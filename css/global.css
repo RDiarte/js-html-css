@@ -1,4 +1,4 @@
-@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+@import url("../node_modules/bootstrap/dist/css/bootstrap.css");
 @import url("reset.css");
 @import url("https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap");
 
@@ -60,8 +60,7 @@ header {
 }
 
 footer {
-  margin-top: auto;
-  background-color: var(--cua);
+  background-color: var(--ter);
   height: 15vh;
   align-items: center;
   justify-content: center;
